@@ -1,0 +1,45 @@
+main article {
+    height: 20vh;
+    border: 1px solid black;
+    margin: 1% 2%;
+    padding: 1%;
+}
+
+.sentence {
+    font-style: italic;
+    margin-bottom: 80px;
+}
+
+footer {
+    border: 2px solid black;
+    padding: 5px 5px;
+}
+
+footer .emoji {
+    color: red;
+}
+
+footer h4 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+footer p {
+    font-style: italic;
+}
+
+#back {
+    display: flex;
+    align-items: center;
+    margin-top: .7%;
+    padding: 0 8px;
+    background-color: black;
+    height: 35px;
+}
+
+button a {
+    font-weight: bolder;
+    text-decoration: none;
+    color: #fff;
+}
